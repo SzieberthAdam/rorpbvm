@@ -1,0 +1,96 @@
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  --><svg contentScriptType="text/ecmascript" zoomAndPan="magnify" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" id="Layer_1" enable-background="new 0 0 210 130" version="1.1" width="210px" xml:space="preserve" preserveAspectRatio="xMidYMid meet" viewBox="0 0 210 130" height="130px" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+<font horiz-adv-x="1000">
+<!-- Copyright (C) 2007 Yusuke Kamiyamane. All rights reserved. -->
+<!-- Copyright: Copyright 2011 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="PFTempestaSeven" units-per-em="1000" underline-position="-188" underline-thickness="125"/>
+<missing-glyph horiz-adv-x="500"/>
+<glyph horiz-adv-x="750" unicode="A" d="M625,750l0,-750l-125,0l0,375l-375,0l0,-375l-125,0l0,750l75,0l0,50l50,0l0,75l375,0l0,-75l50,0l0,-50M125,500l375,0l0,250l-375,0z"/>
+<glyph horiz-adv-x="750" unicode="B" d="M500,450l0,-75l125,0l0,-250l-75,0l0,-50l-50,0l0,-75l-500,0l0,875l500,0l0,-75l50,0l0,-50l75,0l0,-250l-75,0l0,-50M500,500l0,250l-375,0l0,-250M125,125l375,0l0,249l-375,0z"/>
+<glyph horiz-adv-x="750" unicode="C" d="M125,75l-50,0l0,50l-75,0l0,625l75,0l0,50l50,0l0,75l500,0l0,-125l-500,0l0,-625l500,0l0,-125l-500,0z"/>
+<glyph horiz-adv-x="750" unicode="D" d="M500,0l-500,0l0,875l500,0l0,-75l50,0l0,-50l75,0l0,-625l-75,0l0,-50l-50,0M125,125l375,0l0,625l-375,0z"/>
+<glyph horiz-adv-x="750" unicode="F" d="M500,450l0,-75l-375,0l0,-375l-125,0l0,875l625,0l0,-125l-500,0l0,-250l425,0l0,-50z"/>
+<glyph horiz-adv-x="250" unicode="I" d="M0,875l125,0l0,-875l-125,0z"/>
+<glyph horiz-adv-x="625" unicode="L" d="M0,875l125,0l0,-750l375,0l0,-125l-500,0z"/>
+<glyph horiz-adv-x="1000" unicode="M" d="M500,625l125,0l0,125l125,0l0,125l125,0l0,-875l-125,0l0,624l-125,0l0,-125l-125,0l0,-124l-125,0l0,124l-125,0l0,125l-125,0l0,-624l-125,0l0,875l125,0l0,-125l125,0l0,-125l125,0l0,-125l125,0z"/>
+<glyph horiz-adv-x="750" unicode="U" d="M625,875l0,-750l-75,0l0,-50l-50,0l0,-75l-375,0l0,75l-50,0l0,50l-75,0l0,750l125,0l0,-750l375,0l0,750z"/>
+<glyph horiz-adv-x="750" unicode="T" d="M0,875l625,0l0,-125l-250,0l0,-750l-125,0l0,750l-250,0z"/>
+<glyph horiz-adv-x="750" unicode="S" d="M0,125l500,0l0,250l-375,0l0,75l-50,0l0,50l-75,0l0,250l75,0l0,50l50,0l0,75l500,0l0,-125l-500,0l0,-250l375,0l0,-75l50,0l0,-50l75,0l0,-250l-75,0l0,-50l-50,0l0,-75l-500,0z"/>
+<glyph horiz-adv-x="750" unicode="P" d="M625,750l0,-250l-75,0l0,-50l-50,0l0,-75l-375,0l0,-375l-125,0l0,875l500,0l0,-75l50,0l0,-50M500,750l-375,0l0,-250l375,0z"/>
+<glyph horiz-adv-x="375" unicode="," d="M125,0l0,-100l-100,0l0,100l50,0l0,50l50,0l0,75l125,0l0,-125z"/>
+<glyph horiz-adv-x="375" unicode="(" d="M125,0l125,0l0,-125l-125,0l0,75l-50,0l0,50l-75,0l0,875l75,0l0,50l50,0l0,75l125,0l0,-125l-125,0z"/>
+<glyph horiz-adv-x="750" unicode="0" d="M125,0l0,75l-50,0l0,50l-75,0l0,625l75,0l0,50l50,0l0,75l375,0l0,-75l50,0l0,-50l75,0l0,-625l-75,0l0,-50l-50,0l0,-75M125,750l0,-625l375,0l0,625z"/>
+<glyph horiz-adv-x="750" unicode="5" d="M0,125l500,0l0,250l-500,0l0,500l625,0l0,-125l-500,0l0,-250l375,0l0,-75l50,0l0,-50l75,0l0,-250l-75,0l0,-50l-50,0l0,-75l-500,0z"/>
+<glyph horiz-adv-x="750" unicode="3" d="M0,125l500,0l0,249l-375,0l0,76l-50,0l0,50l425,0l0,250l-500,0l0,125l500,0l0,-75l50,0l0,-50l75,0l0,-250l-75,0l0,-50l-50,0l0,-75l125,0l0,-250l-75,0l0,-50l-50,0l0,-75l-500,0z"/>
+<glyph horiz-adv-x="750" unicode="2" d="M0,875l500,0l0,-75l50,0l0,-50l75,0l0,-250l-75,0l0,-50l-50,0l0,-75l-375,0l0,-250l500,0l0,-125l-625,0l0,375l75,0l0,50l50,0l0,75l375,0l0,250l-500,0z"/>
+<glyph horiz-adv-x="375" unicode="1" d="M125,0l0,750l-125,0l0,125l250,0l0,-875z"/>
+<glyph horiz-adv-x="375" unicode="[" d="M0,1000l250,0l0,-125l-125,0l0,-875l125,0l0,-125l-250,0z"/>
+<glyph horiz-adv-x="375" unicode="]" d="M0,0l125,0l0,875l-125,0l0,125l250,0l0,-1125l-250,0z"/>
+<glyph horiz-adv-x="1000" unicode="W" d="M375,75l0,-75l-250,0l0,75l-50,0l0,50l-75,0l0,750l125,0l0,-750l250,0l0,750l125,0l0,-750l250,0l0,750l125,0l0,-750l-75,0l0,-50l-50,0l0,-75l-250,0l0,124l-75,0l0,-49z"/>
+<glyph horiz-adv-x="375" unicode=":" d="M125,125l125,0l0,-125l-125,0M125,625l125,0l0,-125l-125,0z"/>
+<glyph horiz-adv-x="750" unicode="+" d="M0,500l250,0l0,250l125,0l0,-250l250,0l0,-126l-250,0l0,-249l-125,0l0,249l-250,0M375,375l0,124l-25,0l0,-99l-100,0l0,-25z"/>
+<glyph horiz-adv-x="500" unicode="-" d="M0,375l375,0l0,-125l-375,0z"/>
+<glyph horiz-adv-x="750" unicode="/" d="M500,725l0,150l125,0l0,-125l-75,0l0,-50l-50,0l0,-201l-125,0l0,-125l-125,0l0,-124l-25,0l0,-100l-100,0l0,-150l-125,0l0,125l75,0l0,50l50,0l0,200l125,0l0,125l125,0l0,125l25,0l0,100z"/>
+<glyph horiz-adv-x="375" unicode=")" d="M125,875l-125,0l0,125l125,0l0,-75l50,0l0,-50l75,0l0,-875l-75,0l0,-50l-50,0l0,-75l-125,0l0,125l125,0z"/>
+<glyph horiz-adv-x="750" unicode="a" d="M125,75l-50,0l0,50l-75,0l0,125l75,0l0,50l50,0l0,75l375,0l0,125l-375,0l0,75l-50,0l0,50l425,0l0,-75l50,0l0,-50l75,0l0,-500l-500,0M500,125l0,125l-375,0l0,-125z"/>
+<glyph horiz-adv-x="750" unicode="b" d="M100,850l0,-100l25,0l0,-250l25,0l0,100l100,0l0,25l250,0l0,-75l50,0l0,-50l75,0l0,-375l-75,0l0,-50l-50,0l0,-75l-250,0l0,25l-100,0l0,100l-25,0l0,-125l-125,0l0,850M500,500l-325,0l0,-50l-50,0l0,-275l50,0l0,-50l325,0z"/>
+<glyph horiz-adv-x="750" unicode="c" d="M125,75l-50,0l0,50l-75,0l0,375l75,0l0,50l50,0l0,75l500,0l0,-125l-500,0l0,-375l500,0l0,-125l-500,0z"/>
+<glyph horiz-adv-x="750" unicode="d" d="M600,850l0,-100l25,0l0,-750l-125,0l0,125l-25,0l0,-100l-100,0l0,-25l-250,0l0,75l-50,0l0,50l-75,0l0,375l75,0l0,50l50,0l0,75l250,0l0,-25l100,0l0,-100l25,0l0,350M125,125l325,0l0,50l50,0l0,275l-50,0l0,50l-325,0z"/>
+<glyph horiz-adv-x="750" unicode="e" d="M550,75l-50,0l0,-75l-375,0l0,75l-50,0l0,50l-75,0l0,375l75,0l0,50l50,0l0,75l375,0l0,-75l50,0l0,-50l75,0l0,-250l-500,0l0,-125l425,0M125,375l375,0l0,125l-375,0z"/>
+<glyph horiz-adv-x="625" unicode="f" d="M0,625l125,0l0,125l75,0l0,50l50,0l0,75l250,0l0,-125l-250,0l0,-125l250,0l0,-126l-250,0l0,-499l-125,0l0,499l-125,0z"/>
+<glyph horiz-adv-x="750" unicode="g" d="M500,-125l0,250l-25,0l0,-100l-100,0l0,-25l-250,0l0,75l-50,0l0,50l-75,0l0,375l75,0l0,50l50,0l0,75l250,0l0,-25l100,0l0,-100l25,0l0,125l125,0l0,-750l-75,0l0,-50l-50,0l0,-75l-375,0l0,75l-50,0l0,50M125,125l325,0l0,50l50,0l0,275l-50,0l0,50l-325,0z"/>
+<glyph horiz-adv-x="750" unicode="h" d="M100,850l0,-100l25,0l0,-250l25,0l0,100l100,0l0,25l250,0l0,-75l50,0l0,-50l75,0l0,-500l-125,0l0,500l-325,0l0,-50l-50,0l0,-450l-125,0l0,850z"/>
+<glyph horiz-adv-x="250" unicode="i" d="M0,625l125,0l0,-625l-125,0M0,875l125,0l0,-125l-125,0z"/>
+<glyph horiz-adv-x="750" unicode="k" d="M500,0l0,75l-50,0l0,50l-200,0l0,124l-125,0l0,-249l-125,0l0,850l100,0l0,-100l25,0l0,-375l125,0l0,125l200,0l0,50l50,0l0,75l125,0l0,-125l-150,0l0,-100l-100,0l0,-26l-125,0l0,-124l125,0l0,-25l100,0l0,-100l150,0l0,-125z"/>
+<glyph horiz-adv-x="250" unicode="l" d="M100,850l0,-100l25,0l0,-750l-125,0l0,850z"/>
+<glyph horiz-adv-x="1000" unicode="m" d="M175,500l0,-50l-50,0l0,-450l-125,0l0,625l125,0l0,-125l25,0l0,100l100,0l0,25l125,0l0,-75l50,0l0,-50l100,0l0,100l100,0l0,25l125,0l0,-75l50,0l0,-50l75,0l0,-500l-125,0l0,500l-200,0l0,-50l-50,0l0,-450l-125,0l0,500z"/>
+<glyph horiz-adv-x="750" unicode="n" d="M175,500l0,-50l-50,0l0,-450l-125,0l0,625l125,0l0,-125l25,0l0,100l100,0l0,25l250,0l0,-75l50,0l0,-50l75,0l0,-500l-125,0l0,500z"/>
+<glyph horiz-adv-x="750" unicode="o" d="M125,0l0,75l-50,0l0,50l-75,0l0,375l75,0l0,50l50,0l0,75l375,0l0,-75l50,0l0,-50l75,0l0,-375l-75,0l0,-50l-50,0l0,-75M125,500l0,-375l375,0l0,375z"/>
+<glyph horiz-adv-x="750" unicode="q" d="M475,125l0,-100l-100,0l0,-25l-250,0l0,75l-50,0l0,50l-75,0l0,375l75,0l0,50l50,0l0,75l250,0l0,-25l100,0l0,-100l25,0l0,125l125,0l0,-750l-25,0l0,-100l-100,0l0,350M125,125l325,0l0,50l50,0l0,275l-50,0l0,50l-325,0z"/>
+<glyph horiz-adv-x="625" unicode="r" d="M175,500l0,-50l-50,0l0,-450l-125,0l0,625l125,0l0,-125l25,0l0,100l100,0l0,25l250,0l0,-125z"/>
+<glyph horiz-adv-x="750" unicode="s" d="M0,125l500,0l0,125l-375,0l0,75l-50,0l0,50l-75,0l0,125l75,0l0,50l50,0l0,75l500,0l0,-125l-500,0l0,-125l375,0l0,-75l50,0l0,-50l75,0l0,-125l-75,0l0,-50l-50,0l0,-75l-500,0z"/>
+<glyph horiz-adv-x="625" unicode="t" d="M0,625l125,0l0,175l50,0l0,-50l75,0l0,-125l250,0l0,-126l-250,0l0,-374l250,0l0,-125l-250,0l0,25l-100,0l0,100l-25,0l0,374l-125,0z"/>
+<glyph horiz-adv-x="750" unicode="u" d="M375,25l0,-25l-250,0l0,75l-50,0l0,50l-75,0l0,500l125,0l0,-500l325,0l0,50l50,0l0,450l125,0l0,-625l-125,0l0,125l-25,0l0,-100z"/>
+<glyph horiz-adv-x="750" unicode="v" d="M500,250l-25,0l0,-100l-99,0l0,-150l-126,0l0,150l-100,0l0,100l-25,0l0,200l-50,0l0,50l-75,0l0,125l125,0l0,-150l100,0l0,-100l25,0l0,-200l50,0l0,-50l75,0l0,250l25,0l0,100l100,0l0,150l125,0l0,-125l-75,0l0,-50l-50,0z"/>
+<glyph horiz-adv-x="750" unicode="x" d="M375,500l125,0l0,125l125,0l0,-126l-125,0l0,-125l-125,0l0,-124l125,0l0,-125l125,0l0,-125l-125,0l0,124l-125,0l0,126l-125,0l0,124l-125,0l0,125l-125,0l0,126l125,0l0,-125l125,0l0,-125l125,0M0,125l125,0l0,125l125,0l0,-126l-125,0l0,-124l-125,0z"/>
+<glyph horiz-adv-x="750" unicode="y" d="M150,150l0,100l-25,0l0,200l-50,0l0,50l-75,0l0,125l125,0l0,-150l100,0l0,-100l25,0l0,-200l50,0l0,-50l75,0l0,250l25,0l0,100l100,0l0,150l125,0l0,-125l-75,0l0,-50l-50,0l0,-200l-25,0l0,-100l-99,0l0,-150l-26,0l0,-100l-100,0l0,-150l-125,0l0,125l75,0l0,50l50,0l0,225z"/>
+<glyph horiz-adv-x="500" unicode=" "/>
+<glyph horiz-adv-x="750" unicode="R" d="M625,750l0,-250l-75,0l0,-50l-50,0l0,-100l100,0l0,-100l25,0l0,-250l-125,0l0,325l-50,0l0,50l-325,0l0,-375l-125,0l0,875l500,0l0,-75l50,0l0,-50M500,750l-375,0l0,-250l375,0z"/>
+<glyph horiz-adv-x="750" unicode="4" d="M125,550l0,200l125,0l0,125l250,0l0,-500l125,0l0,-126l-125,0l0,-249l-125,0l0,249l-375,0l0,251l75,0l0,50M375,749l-125,0l0,-124l-25,0l0,-100l-100,0l0,-150l250,0M500,250l0,124l-25,0l0,-99l-100,0l0,-25z"/>
+<glyph horiz-adv-x="375" unicode="." d="M125,125l125,0l0,-125l-125,0z"/>
+</font>
+
+	<font horiz-adv-x="1000">
+<!-- Copyright (C) 2007 Yusuke Kamiyamane. All rights reserved. -->
+<!-- Copyright: Copyright 2011 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="PFTempestaSeven-Bold" units-per-em="1000" underline-position="-188" underline-thickness="125"/>
+<missing-glyph horiz-adv-x="500"/>
+<glyph horiz-adv-x="875" unicode="B" d="M625,450l0,-75l125,0l0,-250l-75,0l0,-50l-50,0l0,-75l-625,0l0,875l625,0l0,-75l50,0l0,-50l75,0l0,-250l-75,0l0,-50M500,500l0,250l-250,0l0,-250M500,125l0,250l-250,0l0,-250z"/>
+<glyph horiz-adv-x="875" unicode="P" d="M750,750l0,-250l-75,0l0,-50l-50,0l0,-75l-375,0l0,-375l-250,0l0,875l625,0l0,-75l50,0l0,-50M500,750l-250,0l0,-250l250,0z"/>
+<glyph horiz-adv-x="625" unicode="-" d="M0,375l500,0l0,-125l-500,0z"/>
+<glyph horiz-adv-x="875" unicode="a" d="M125,75l-50,0l0,50l-75,0l0,125l75,0l0,50l50,0l0,75l375,0l0,125l-375,0l0,75l-50,0l0,50l550,0l0,-75l50,0l0,-50l75,0l0,-500l-625,0M500,125l0,125l-250,0l0,-125z"/>
+<glyph horiz-adv-x="875" unicode="h" d="M0,0l0,750l25,0l0,100l200,0l0,-100l25,0l0,-250l25,0l0,100l100,0l0,25l250,0l0,-75l50,0l0,-50l75,0l0,-500l-250,0l0,500l-200,0l0,-50l-50,0l0,-450z"/>
+<glyph horiz-adv-x="375" unicode="i" d="M0,625l250,0l0,-625l-250,0M0,875l250,0l0,-125l-250,0z"/>
+<glyph horiz-adv-x="875" unicode="n" d="M300,500l0,-50l-50,0l0,-450l-250,0l0,625l250,0l0,-125l25,0l0,100l100,0l0,25l250,0l0,-75l50,0l0,-50l75,0l0,-500l-250,0l0,500z"/>
+<glyph horiz-adv-x="875" unicode="o" d="M125,0l0,75l-50,0l0,50l-75,0l0,375l75,0l0,50l50,0l0,75l500,0l0,-75l50,0l0,-50l75,0l0,-375l-75,0l0,-50l-50,0l0,-75M250,500l0,-375l250,0l0,375z"/>
+<glyph horiz-adv-x="875" unicode="s" d="M0,125l500,0l0,125l-375,0l0,75l-50,0l0,50l-75,0l0,125l75,0l0,50l50,0l0,75l625,0l0,-125l-500,0l0,-125l375,0l0,-75l50,0l0,-50l75,0l0,-125l-75,0l0,-50l-50,0l0,-75l-625,0z"/>
+<glyph horiz-adv-x="750" unicode="t" d="M125,125l0,375l-125,0l0,125l125,0l0,125l75,0l0,50l100,0l0,-50l75,0l0,-125l250,0l0,-125l-250,0l0,-375l250,0l0,-125l-375,0l0,25l-100,0l0,100z"/>
+<glyph horiz-adv-x="875" unicode="u" d="M375,25l0,-25l-250,0l0,75l-50,0l0,50l-75,0l0,500l250,0l0,-500l200,0l0,50l50,0l0,450l250,0l0,-625l-250,0l0,125l-25,0l0,-100z"/>
+<glyph horiz-adv-x="875" unicode="y" d="M500,-125l0,125l-375,0l0,75l-50,0l0,50l-75,0l0,500l250,0l0,-500l250,0l0,500l250,0l0,-750l-75,0l0,-50l-50,0l0,-75l-500,0l0,75l-50,0l0,50z"/>
+</font>
+
+	<g>
+	<path fill="#FFFFFF" d="M11,128.5c-5.238,0-9.5-4.262-9.5-9.5V11c0-5.238,4.262-9.5,9.5-9.5h188c5.238,0,9.5,4.262,9.5,9.5v108   c0,5.238-4.262,9.5-9.5,9.5H11z"/>
+	<path d="M199,2c4.963,0,9,4.038,9,9v108c0,4.963-4.037,9-9,9H11c-4.962,0-9-4.037-9-9V11c0-4.962,4.038-9,9-9H199 M199,1H11   C5.477,1,1,5.477,1,11v108c0,5.523,4.477,10,10,10h188c5.523,0,10-4.477,10-10V11C209,5.477,204.523,1,199,1L199,1z"/>
+</g>
+<rect width="206" x="2" fill="#0000FF" height="1" y="31"/>
+<rect width="206" x="2" fill="#0000FF" height="1" y="89"/>
+<text fill="#0000FF" font-size="8" font-family="&apos;PFTempestaSeven-Bold&apos;" transform="matrix(1 0 0 1 81 14)">Bithynia</text>
+<text fill="#0000FF" font-size="8" font-family="&apos;PFTempestaSeven-Bold&apos;" transform="matrix(1 0 0 1 58 14)" display="none">Bithynia-Pontus</text>
+<text fill="#0000FF" font-size="8" font-family="&apos;PFTempestaSeven&apos;" transform="matrix(1 0 0 1 83 26)">Province</text>
+<text fill="#0000FF" font-size="8" font-family="&apos;PFTempestaSeven&apos;" transform="matrix(1 0 0 1 61 26)" display="none">Frontier Province</text>
+<text transform="matrix(1 0 0 1 9 44)"><tspan x="0" fill="#0000FF" font-size="8" y="0" font-family="&apos;PFTempestaSeven&apos;">Personal Income:</tspan><tspan x="0" fill="#0000FF" font-size="8" y="10" font-family="&apos;PFTempestaSeven&apos;">State Income:</tspan><tspan x="0" fill="#0000FF" font-size="8" y="20" font-family="&apos;PFTempestaSeven&apos;">State Taxes:</tspan><tspan x="0" fill="#0000FF" font-size="8" y="30" font-family="&apos;PFTempestaSeven&apos;">Base Strength:</tspan><tspan x="0" fill="#0000FF" font-size="8" y="40" font-family="&apos;PFTempestaSeven&apos;">Maximum Forces:</tspan></text>
+<text transform="matrix(1 0 0 1 9 102)"><tspan x="0" fill="#0000FF" font-size="8" y="0" font-family="&apos;PFTempestaSeven&apos;">Created by: BithBeq(Und), 3.MithW(Dev)</tspan><tspan x="0" fill="#0000FF" font-size="8" y="10" font-family="&apos;PFTempestaSeven&apos;">Attacked by: MR[1.CilicP(2):IfUndev],</tspan><tspan x="0" fill="#0000FF" font-size="8" y="20" font-family="&apos;PFTempestaSeven&apos;">LR[1.-3.-2.MithW(1-1-1), ParthW(3)]</tspan></text>
+<text transform="matrix(1 0 0 1 158 45)"><tspan x="0" fill="#0000FF" font-size="8" y="0" font-family="&apos;PFTempestaSeven&apos;">dr+2</tspan><tspan x="0" fill="#0000FF" font-size="8" y="10" font-family="&apos;PFTempestaSeven&apos;">dr+2</tspan><tspan x="0" fill="#0000FF" font-size="8" y="20" font-family="&apos;PFTempestaSeven&apos;">30</tspan><tspan x="0" fill="#0000FF" font-size="8" y="30" font-family="&apos;PFTempestaSeven&apos;">4/5</tspan><tspan x="0" fill="#0000FF" font-size="8" y="40" font-family="&apos;PFTempestaSeven&apos;">10/5</tspan></text>
+<text transform="matrix(1 0 0 1 127 45)"><tspan x="0" fill="#0000FF" font-size="8" y="0" font-family="&apos;PFTempestaSeven&apos;">dr-4</tspan><tspan x="0" fill="#0000FF" font-size="8" y="10" font-family="&apos;PFTempestaSeven&apos;">dr-2</tspan><tspan x="12" fill="#0000FF" font-size="8" y="20" font-family="&apos;PFTempestaSeven&apos;">10</tspan><tspan x="3" fill="#0000FF" font-size="8" y="30" font-family="&apos;PFTempestaSeven&apos;">2/5</tspan><tspan x="6" fill="#0000FF" font-size="8" y="40" font-family="&apos;PFTempestaSeven&apos;">1/3</tspan></text>
+<rect width="1" x="152" fill="#0000FF" height="57" y="32"/>
+</svg>

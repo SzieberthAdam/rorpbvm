@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" id="Layer_1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="321" height="129" viewBox="0 0 321 129"
+	 overflow="visible" enable-background="new 0 0 321 129" xml:space="preserve">
+<font horiz-adv-x="2048">
+<!-- Typeface (C) Bou Fonts. 2011. All Rights Reserved -->
+<!-- Copyright: Copyright 2012 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="SquareFont" units-per-em="2048" underline-position="-217" underline-thickness="150"/>
+<missing-glyph horiz-adv-x="1024" d="M100,0l0,1434l824,0l0,-1434M150,50l724,0l0,1334l-724,0M325,1148C346,1167 365,1181 383,1191C418,1211 456,1221 495,1221C556,1221 606,1205 643,1174C680,1142 699,1099 699,1046C699,1013 691,981 676,948C661,915 632,871 589,818C547,765 514,721 490,686C466,651 454,618 454,587C454,562 462,517 478,454l-32,0C423,519 411,568 411,602C411,653 438,725 493,820C547,915 574,987 574,1037C574,1075 563,1105 541,1127C519,1149 489,1160 450,1160C425,1160 402,1154 381,1143C364,1133 345,1120 325,1103M389,334l57,58C453,399 460,402 466,402C473,402 480,398 488,391l56,-60C550,324 553,317 553,311C553,304 550,296 543,289l-56,-62C478,218 471,213 466,213C459,213 452,216 446,223l-61,71C380,300 378,306 378,312C378,319 382,326 389,334z"/>
+<glyph unicode=" " horiz-adv-x="508"/>
+<glyph unicode="," horiz-adv-x="476" d="M223,0l-123,0l0,258l276,0l0,-258l-112,-240l-156,0z"/>
+<glyph unicode=":" horiz-adv-x="476" d="M376,931l0,-258l-276,0l0,258M376,258l0,-258l-276,0l0,258z"/>
+<glyph unicode="A" horiz-adv-x="1186" d="M827,601l-451,0l0,-601l-276,0l0,1436l986,0l0,-1436l-259,0M376,1190l0,-355l451,0l0,355z"/>
+<glyph unicode="C" horiz-adv-x="1186" d="M376,246l710,0l0,-246l-986,0l0,1436l986,0l0,-246l-710,0z"/>
+<glyph unicode="E" horiz-adv-x="1186" d="M376,1190l0,-355l710,0l0,-234l-710,0l0,-355l710,0l0,-246l-986,0l0,1436l986,0l0,-246z"/>
+<glyph unicode="F" horiz-adv-x="1186" d="M376,0l-276,0l0,1436l986,0l0,-246l-710,0l0,-355l710,0l0,-234l-710,0z"/>
+<glyph unicode="M" horiz-adv-x="1306" d="M376,0l-276,0l0,1436l276,0l280,-787l291,787l259,0l0,-1436l-259,0l0,601l-201,-601l-162,0l-208,601z"/>
+<glyph unicode="N" horiz-adv-x="1186" d="M376,0l-276,0l0,1436l276,0l451,-805l0,805l259,0l0,-1436l-259,0l-451,829z"/>
+<glyph unicode="O" horiz-adv-x="1186" d="M1086,1436l0,-1436l-986,0l0,1436M827,1190l-451,0l0,-944l451,0z"/>
+<glyph unicode="P" horiz-adv-x="1186" d="M376,0l-276,0l0,1436l986,0l0,-835l-710,0M376,1190l0,-355l451,0l0,355z"/>
+<glyph unicode="R" horiz-adv-x="1186" d="M376,1190l0,-355l451,0l0,355M100,0l0,1436l986,0l0,-835l-337,0l337,-601l-259,0l-354,601l-97,0l0,-601z"/>
+<glyph unicode="S" horiz-adv-x="1186" d="M100,601l0,835l986,0l0,-246l-710,0l0,-355l710,0l0,-835l-986,0l0,246l727,0l0,355z"/>
+<glyph unicode="W" horiz-adv-x="1599" d="M800,656l-117,-656l-327,0l-256,1436l282,0l136,-960l145,960l273,0l145,-960l136,960l282,0l-256,-1436l-327,0z"/>
+<glyph unicode="Y" horiz-adv-x="1186" d="M724,718l0,-718l-276,0l0,718l-348,718l276,0l223,-456l228,456l259,0z"/>
+<glyph unicode="a" horiz-adv-x="1186" d="M827,601l-451,0l0,-601l-276,0l0,1436l986,0l0,-1436l-259,0M376,1190l0,-355l451,0l0,355z"/>
+<glyph unicode="c" horiz-adv-x="1186" d="M376,246l710,0l0,-246l-986,0l0,1436l986,0l0,-246l-710,0z"/>
+<glyph unicode="d" horiz-adv-x="1186" d="M100,0l0,1436l882,0l104,-126l0,-1184l-103,-126M827,1190l-451,0l0,-944l451,0z"/>
+<glyph unicode="e" horiz-adv-x="1186" d="M376,1190l0,-355l710,0l0,-234l-710,0l0,-355l710,0l0,-246l-986,0l0,1436l986,0l0,-246z"/>
+<glyph unicode="g" horiz-adv-x="1186" d="M541,835l545,0l0,-835l-986,0l0,1436l986,0l0,-246l-710,0l0,-944l451,0l0,355l-286,0z"/>
+<glyph unicode="h" horiz-adv-x="1186" d="M376,0l-276,0l0,1436l276,0l0,-601l451,0l0,601l259,0l0,-1436l-259,0l0,601l-451,0z"/>
+<glyph unicode="i" horiz-adv-x="476" d="M376,0l-276,0l0,1436l276,0z"/>
+<glyph unicode="l" horiz-adv-x="1186" d="M376,246l710,0l0,-246l-986,0l0,1436l276,0z"/>
+<glyph unicode="m" horiz-adv-x="1306" d="M376,0l-276,0l0,1436l276,0l280,-787l291,787l259,0l0,-1436l-259,0l0,601l-201,-601l-162,0l-208,601z"/>
+<glyph unicode="n" horiz-adv-x="1186" d="M376,0l-276,0l0,1436l276,0l451,-805l0,805l259,0l0,-1436l-259,0l-451,829z"/>
+<glyph unicode="o" horiz-adv-x="1186" d="M1086,1436l0,-1436l-986,0l0,1436M827,1190l-451,0l0,-944l451,0z"/>
+<glyph unicode="r" horiz-adv-x="1186" d="M376,1190l0,-355l451,0l0,355M100,0l0,1436l986,0l0,-835l-337,0l337,-601l-259,0l-354,601l-97,0l0,-601z"/>
+<glyph unicode="s" horiz-adv-x="1186" d="M100,601l0,835l986,0l0,-246l-710,0l0,-355l710,0l0,-835l-986,0l0,246l727,0l0,355z"/>
+<glyph unicode="t" horiz-adv-x="1186" d="M473,1190l-373,0l0,246l986,0l0,-246l-337,0l0,-1190l-276,0z"/>
+<glyph unicode="v" horiz-adv-x="1186" d="M827,1436l259,0l-313,-1436l-336,0l-337,1436l276,0l216,-1105z"/>
+<glyph unicode="y" horiz-adv-x="1186" d="M724,718l0,-718l-276,0l0,718l-348,718l276,0l223,-456l228,456l259,0z"/>
+</font>
+
+	<font horiz-adv-x="1000">
+<!-- Copyright (C) 2007 Yusuke Kamiyamane. All rights reserved. -->
+<!-- Copyright: Copyright 2012 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="PFTempestaSeven-Bold" units-per-em="1000" underline-position="-188" underline-thickness="125"/>
+<missing-glyph horiz-adv-x="500"/>
+<glyph unicode="a" horiz-adv-x="875" d="M125,75l-50,0l0,50l-75,0l0,125l75,0l0,50l50,0l0,75l375,0l0,125l-375,0l0,75l-50,0l0,50l550,0l0,-75l50,0l0,-50l75,0l0,-500l-625,0M500,125l0,125l-250,0l0,-125z"/>
+<glyph unicode="d" horiz-adv-x="875" d="M500,500l0,250l25,0l0,100l200,0l0,-100l25,0l0,-750l-250,0l0,125l-25,0l0,-100l-100,0l0,-25l-250,0l0,75l-50,0l0,50l-75,0l0,375l75,0l0,50l50,0l0,75l250,0l0,-25l100,0l0,-100M250,125l200,0l0,50l50,0l0,275l-50,0l0,50l-200,0z"/>
+<glyph unicode="e" horiz-adv-x="875" d="M675,75l-50,0l0,-75l-500,0l0,75l-50,0l0,50l-75,0l0,375l75,0l0,50l50,0l0,75l500,0l0,-75l50,0l0,-50l75,0l0,-250l-500,0l0,-125l425,0M250,375l250,0l0,125l-250,0z"/>
+<glyph unicode="f" horiz-adv-x="750" d="M375,750l0,-125l250,0l0,-125l-250,0l0,-500l-250,0l0,500l-125,0l0,125l125,0l0,125l75,0l0,50l50,0l0,75l375,0l0,-125z"/>
+<glyph unicode="g" horiz-adv-x="875" d="M500,-125l0,250l-25,0l0,-100l-100,0l0,-25l-250,0l0,75l-50,0l0,50l-75,0l0,375l75,0l0,50l50,0l0,75l250,0l0,-25l100,0l0,-100l25,0l0,125l250,0l0,-750l-75,0l0,-50l-50,0l0,-75l-500,0l0,75l-50,0l0,50M250,125l200,0l0,50l50,0l0,275l-50,0l0,50l-200,0z"/>
+<glyph unicode="h" horiz-adv-x="875" d="M0,0l0,750l25,0l0,100l200,0l0,-100l25,0l0,-250l25,0l0,100l100,0l0,25l250,0l0,-75l50,0l0,-50l75,0l0,-500l-250,0l0,500l-200,0l0,-50l-50,0l0,-450z"/>
+<glyph unicode="i" horiz-adv-x="375" d="M0,625l250,0l0,-625l-250,0M0,875l250,0l0,-125l-250,0z"/>
+<glyph unicode="l" horiz-adv-x="375" d="M0,0l0,750l25,0l0,100l200,0l0,-100l25,0l0,-750z"/>
+<glyph unicode="n" horiz-adv-x="875" d="M300,500l0,-50l-50,0l0,-450l-250,0l0,625l250,0l0,-125l25,0l0,100l100,0l0,25l250,0l0,-75l50,0l0,-50l75,0l0,-500l-250,0l0,500z"/>
+<glyph unicode="o" horiz-adv-x="875" d="M125,0l0,75l-50,0l0,50l-75,0l0,375l75,0l0,50l50,0l0,75l500,0l0,-75l50,0l0,-50l75,0l0,-375l-75,0l0,-50l-50,0l0,-75M250,500l0,-375l250,0l0,375z"/>
+<glyph unicode="r" horiz-adv-x="750" d="M300,500l0,-50l-50,0l0,-450l-250,0l0,625l250,0l0,-125l25,0l0,100l100,0l0,25l250,0l0,-125z"/>
+<glyph unicode="s" horiz-adv-x="875" d="M0,125l500,0l0,125l-375,0l0,75l-50,0l0,50l-75,0l0,125l75,0l0,50l50,0l0,75l625,0l0,-125l-500,0l0,-125l375,0l0,-75l50,0l0,-50l75,0l0,-125l-75,0l0,-50l-50,0l0,-75l-625,0z"/>
+<glyph unicode="t" horiz-adv-x="750" d="M125,125l0,375l-125,0l0,125l125,0l0,125l75,0l0,50l100,0l0,-50l75,0l0,-125l250,0l0,-125l-250,0l0,-375l250,0l0,-125l-375,0l0,25l-100,0l0,100z"/>
+<glyph unicode="u" horiz-adv-x="875" d="M375,25l0,-25l-250,0l0,75l-50,0l0,50l-75,0l0,500l250,0l0,-500l200,0l0,50l50,0l0,450l250,0l0,-625l-250,0l0,125l-25,0l0,-100z"/>
+</font>
+
+	<g>
+	<path fill="#8C8C8C" d="M0.5,32.5c0,0.984,0,95.016,0,96c0.995,0,319.005,0,320,0c0-0.984,0-95.016,0-96
+		C319.505,32.5,1.495,32.5,0.5,32.5z"/>
+	<path d="M321,32H0v97h321v-1l0,0l0,0V32L321,32z M1,33h319v95H1V33L1,33z"/>
+</g>
+<g>
+	<path fill="#666666" d="M0.5,0.5c0,0.955,0,31.045,0,32c0.995,0,319.005,0,320,0c0-0.955,0-31.045,0-32
+		C319.505,0.5,1.495,0.5,0.5,0.5z"/>
+	<path d="M321,0H0v33h321v-1l0,0l0,0V0L321,0z M1,1h319v31H1V1L1,1z"/>
+</g>
+<text transform="matrix(1 0 0 1 96.5313 27.6016)" font-family="'SquareFont'" font-size="32">Military</text>
+<g>
+	<rect x="192.5" y="48.5" fill="#FFFFFF" width="32" height="16"/>
+	<path d="M225,48h-1h-31h-1v1v15v1h1h31h1v-1V49V48L225,48z M193,49h31v15l0,0l0,0h-31V49L193,49L193,49z"/>
+</g>
+<g>
+	<rect x="256.5" y="48.5" fill="#FFFFFF" width="32" height="16"/>
+	<path d="M289,48h-1h-31h-1v1v15v1h1h31h1v-1V49V48L289,48z M257,49h31v15l0,0l0,0h-31V49L257,49L257,49z"/>
+</g>
+<text transform="matrix(1 0 0 1 124.0527 43.9995)" font-family="'PFTempestaSeven-Bold'" font-size="8">legions</text>
+<text transform="matrix(1 0 0 1 191 43.9995)" font-family="'PFTempestaSeven-Bold'" font-size="8">fleets</text>
+<text transform="matrix(1 0 0 1 247 43.9995)" font-family="'PFTempestaSeven-Bold'" font-size="8">rhodians</text>
+<text transform="matrix(1 0 0 1 24.8896 56.9346)" font-family="'SquareFont'" font-size="16">ARMY Pool</text>
+<text transform="matrix(1 0 0 1 11.0718 89.0078)" font-family="'SquareFont'" font-size="16">ROMAN FORCES</text>
+<g>
+	<rect x="128.5" y="48.5" fill="#FFFFFF" width="32" height="16"/>
+	<path d="M161,48h-1h-31h-1v1v15v1h1h31h1v-1V49V48L161,48z M129,49h31v15l0,0l0,0h-31V49L129,49L129,49z"/>
+</g>
+<g>
+	<rect x="192.5" y="80.5" fill="#FFFFFF" width="32" height="16"/>
+	<path d="M225,80h-1h-31h-1v1v15v1h1h31h1v-1V81V80L225,80z M193,81h31v15l0,0l0,0h-31V81L193,81L193,81z"/>
+</g>
+<g>
+	<rect x="256.5" y="80.5" fill="#FFFFFF" width="32" height="16"/>
+	<path d="M289,80h-1h-31h-1v1v15v1h1h31h1v-1V81V80L289,80z M257,81h31v15l0,0l0,0h-31V81L257,81L257,81z"/>
+</g>
+<text transform="matrix(1 0 0 1 124.0527 76)" font-family="'PFTempestaSeven-Bold'" font-size="8">legions</text>
+<text transform="matrix(1 0 0 1 191 76)" font-family="'PFTempestaSeven-Bold'" font-size="8">fleets</text>
+<text transform="matrix(1 0 0 1 251 76)" font-family="'PFTempestaSeven-Bold'" font-size="8">shuffle</text>
+<g>
+	<rect x="128.553" y="80.5" fill="#FFFFFF" width="32" height="16"/>
+	<path d="M161.052,80h-1h-31h-1v1v15v1h1h31h1v-1V81V80L161.052,80z M129.052,81h31v15l0,0l0,0h-31V81L129.052,81L129.052,81z"/>
+</g>
+<text transform="matrix(1 0 0 1 30.207 118.0078)" font-family="'SquareFont'" font-size="16">Wars, revolts, matching leaders:</text>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="17px" height="17px" viewBox="0 0 17 17" enable-background="new 0 0 17 17" xml:space="preserve">
+<font horiz-adv-x="1000">
+<!-- Copyright (C) 2007 Yusuke Kamiyamane. All rights reserved. -->
+<!-- Copyright: Copyright 2011 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="PFTempestaSeven" units-per-em="1000" underline-position="-188" underline-thickness="125"/>
+<missing-glyph horiz-adv-x="500"/>
+<glyph unicode="0" horiz-adv-x="750" d="M125,0l0,75l-50,0l0,50l-75,0l0,625l75,0l0,50l50,0l0,75l375,0l0,-75l50,0l0,-50l75,0l0,-625l-75,0l0,-50l-50,0l0,-75M125,750l0,-625l375,0l0,625z"/>
+</font>
+
+	<text transform="matrix(1 0 0 1 7.9995 12)" fill="#010101" font-family="'PFTempestaSeven'" font-size="8">0</text>
+</svg>
